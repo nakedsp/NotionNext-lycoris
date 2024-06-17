@@ -70,16 +70,16 @@ const BLOG = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    '"PingFang SC"',
     '-apple-system',
+    'HarmonyOS_Regular',
+    '"Noto Sans SC"',
+    '"PingFang SC"',
     'BlinkMacSystemFont',
     '"Hiragino Sans GB"',
     '"Microsoft YaHei"',
     '"Segoe UI Emoji"',
     '"Segoe UI Symbol"',
     '"Segoe UI"',
-    '"Noto Sans SC"',
-    'HarmonyOS_Regular',
     '"Helvetica Neue"',
     'Helvetica',
     '"Source Han Sans SC"',
@@ -90,10 +90,10 @@ const BLOG = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
+    '"Times New Roman"',
     'Bitter',
     '"Noto Serif SC"',
     'SimSun',
-    '"Times New Roman"',
     'Times',
     'serif',
     '"Segoe UI Emoji"',
