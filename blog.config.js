@@ -71,9 +71,9 @@ const BLOG = {
   FONT_SANS: [
     // '"LXGW WenKai"',
     '-apple-system',
-    'HarmonyOS_Regular',
     '"Noto Sans SC"',
     '"PingFang SC"',
+    'HarmonyOS_Regular',
     'BlinkMacSystemFont',
     '"Hiragino Sans GB"',
     '"Microsoft YaHei"',
